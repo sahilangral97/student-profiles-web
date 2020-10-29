@@ -1,8 +1,8 @@
 ## Table of contents
-General Information
-Technology
-Setup
-Functionalities
+*General Information
+*Technology
+*Setup
+*Functionalities
  
 
 ## General Information
