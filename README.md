@@ -1,8 +1,8 @@
 ## Table of contents
-*General Information
-*Technology
-*Setup
-*Functionalities
+General Information <br />
+Technology			<br />
+Setup				<br />
+Functionalities		<br />
  
 
 ## General Information
@@ -28,8 +28,8 @@ Above command runs the application
 To view it in browser open [LocalHost](http://localhost:3000)
 
 ##Functionalities
-You can expand the profile of student to view indepth scores of the student.
-Can give student a student non-repeated tags.
-Can search the students simultaneously by both names and tags.
+You can expand the profile of student to view indepth scores of the student.<br />
+Can give student a student non-repeated tags.<br />
+Can search the students simultaneously by both names and tags.<br />
 
 
