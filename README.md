@@ -27,7 +27,7 @@ $npm start
 Above command runs the application
 To view it in browser open [LocalHost](http://localhost:3000)
 
-##Functionalities
+## Functionalities
 You can expand the profile of student to view indepth scores of the student.<br />
 Can give student a student non-repeated tags.<br />
 Can search the students simultaneously by both names and tags.<br />
